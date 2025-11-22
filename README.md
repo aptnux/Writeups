@@ -21,24 +21,16 @@ This repo is meant to be collaborative.
 
 If you want to:
 
-Suggest improvements
-
-Share an alternative analysis
-
-Point out something I missed
-
-Add references or expand explanations
+- Suggest improvements
+- Share an alternative analysis
+- Point out something I missed
+- Add references or expand explanations
 
 Feel free to open:
-
-Issues → for corrections, suggestions, or discussions
-
-Pull Requests → if you want to contribute additional content or fix something directly
+- Issues → for corrections, suggestions, or discussions
+- Pull Requests → if you want to contribute additional content or fix something directly
 
 ---
 
-If something here helps you — learn from it.
-If something here is wrong — correct it.
-If something here sparks an idea — explore it.
-
-Let’s build this knowledge base together.
+- If something here helps you — learn from it.
+- If something here is wrong — correct it.
