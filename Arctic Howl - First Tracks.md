@@ -116,7 +116,7 @@ The malware was located at:
 This script was hidden inside a developer project directory structure.
 
 
-![xcassets.sh initial malware](https://github.com/aptnux/Writeups/blob/main/images/Pasted%20image%2020260310190580.png)
+![xcassets.sh initial malware](https://github.com/aptnux/Writeups/blob/main/images/Pasted%20image%2020260310190850.png)
 
 ---
 
