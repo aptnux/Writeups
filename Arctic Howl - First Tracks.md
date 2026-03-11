@@ -50,7 +50,7 @@ Therefore **192.168.67.2** was identified as the infected machine.
 
 ---
 
-![[Pasted image 20260310190520.png]]
+![endpoints](https://github.com/aptnux/Writeups/blob/main/images/Pasted%20image%2020260310190520.png)
 
 ---
 
@@ -116,7 +116,7 @@ The malware was located at:
 This script was hidden inside a developer project directory structure.
 
 
-![[Pasted image 20260310190850.png]]
+![xcassets.sh initial malware](https://github.com/aptnux/Writeups/blob/main/images/Pasted%20image%2020260310190580.png)
 
 ---
 
